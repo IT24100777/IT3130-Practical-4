@@ -1,1 +1,2 @@
 GitHub Flow demonstration - IT24100777
+This branch demonstrates the GitHub Flow workflow.
